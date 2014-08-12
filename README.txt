@@ -1,0 +1,1 @@
+A pure CSS dot-loading
